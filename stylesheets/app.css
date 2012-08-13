@@ -1690,11 +1690,11 @@ that IE7/8 do not support :nth-child.
 }
 /* line 39, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_buttons.scss */
 .button.radius {
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
-  border-radius: 3px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
 }
 /* line 40, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_buttons.scss */
 .button.round {
@@ -2146,12 +2146,12 @@ ul.button-group.radius li a.button, ul.button-group.radius li a.button.radius, u
 }
 /* line 170, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_buttons.scss */
 ul.button-group.radius li:first-child a.button, ul.button-group.radius li:first-child a.button.radius {
-  -moz-border-radius-topleft: 3px;
-  -webkit-border-top-left-radius: 3px;
-  border-top-left-radius: 3px;
-  -moz-border-radius-bottomleft: 3px;
-  -webkit-border-bottom-left-radius: 3px;
-  border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 5px;
+  -webkit-border-top-left-radius: 5px;
+  border-top-left-radius: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 /* line 171, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_buttons.scss */
 ul.button-group.radius li:first-child a.button.rounded {
@@ -2164,12 +2164,12 @@ ul.button-group.radius li:first-child a.button.rounded {
 }
 /* line 174, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_buttons.scss */
 ul.button-group.radius li:last-child a.button, ul.button-group.radius li:last-child a.button.radius {
-  -moz-border-radius-topright: 3px;
-  -webkit-border-top-right-radius: 3px;
-  border-top-right-radius: 3px;
-  -moz-border-radius-bottomright: 3px;
-  -webkit-border-bottom-right-radius: 3px;
-  border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 5px;
+  -webkit-border-top-right-radius: 5px;
+  border-top-right-radius: 5px;
+  -moz-border-radius-bottomright: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 /* line 175, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_buttons.scss */
 ul.button-group.radius li:last-child a.button.rounded {
@@ -3574,11 +3574,11 @@ div.alert-box a.close:hover, div.alert-box a.close:focus {
 }
 /* line 158, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_ui.scss */
 .label.radius {
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
-  border-radius: 3px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
 }
 /* line 159, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_ui.scss */
 .label.round {
@@ -3763,11 +3763,11 @@ div.alert-box a.close:hover, div.alert-box a.close:focus {
 }
 /* line 223, ../../../../.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.0.8/scss/foundation/components/modules/_ui.scss */
 .panel.radius {
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
-  border-radius: 3px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
 }
 
 /* Accordion ---------------------- */
@@ -4054,11 +4054,11 @@ ul.link-list li a {
   margin: 0;
   background: #ededed;
   border: solid 1px #dbdbdb;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
-  border-radius: 3px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
 }
 
 /* Video - Mad props to http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/ ---------------------- */
